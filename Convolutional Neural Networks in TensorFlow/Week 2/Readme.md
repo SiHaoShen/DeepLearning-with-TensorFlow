@@ -1,0 +1,5 @@
+## Exercise 2 Questions
+
+Now that you’ve seen Image Augmentation in action, it’s time to go back to the Cats v Dogs full Kaggle Challenge exercise. Last week you built a classifier for Cats v Dogs and trained it for a few epochs. This week I want you to add Augmentation to it, and experiment with different parameters to avoid overfitting. This will likely take a lot of time -- as it requires using the full dataset along with augmentation code to edit the data on-the-fly. The opportunity here is to try hard to get into State-of-the-Art type classification. Experiment with different images it hasn’t before seen, and see if you can get it to correctly classify them! For a particularly challenging image, see if you can get it to classify this one correctly: https://pixabay.com/photos/bed-dog-animals-dogs-pets-relax-1284238/
+
+Lets now build the Cats vs. Dogs classifier using augmentation!

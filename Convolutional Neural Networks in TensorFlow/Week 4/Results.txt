@@ -1,0 +1,99 @@
+C:/Users/shens/Downloads/rps-validation\paper-hires1.png
+[[1. 0. 0.]]
+It is a Paper
+C:/Users/shens/Downloads/rps-validation\paper-hires2.png
+[[1. 0. 0.]]
+It is a Paper
+C:/Users/shens/Downloads/rps-validation\paper1.png
+[[1. 0. 0.]]
+It is a Paper
+C:/Users/shens/Downloads/rps-validation\paper2.png
+[[1. 0. 0.]]
+It is a Paper
+C:/Users/shens/Downloads/rps-validation\paper3.png
+[[1. 0. 0.]]
+It is a Paper
+C:/Users/shens/Downloads/rps-validation\paper4.png
+[[1. 0. 0.]]
+It is a Paper
+C:/Users/shens/Downloads/rps-validation\paper5.png
+[[7.0604403e-12 0.0000000e+00 1.0000000e+00]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\paper6.png
+[[1. 0. 0.]]
+It is a Paper
+C:/Users/shens/Downloads/rps-validation\paper7.png
+[[1. 0. 0.]]
+It is a Paper
+C:/Users/shens/Downloads/rps-validation\paper8.png
+[[1. 0. 0.]]
+It is a Paper
+C:/Users/shens/Downloads/rps-validation\paper9.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock-hires1.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock-hires2.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock1.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock2.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock3.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock4.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock5.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock6.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock7.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock8.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\rock9.png
+[[0. 1. 0.]]
+It is a Rock
+C:/Users/shens/Downloads/rps-validation\scissors-hires1.png
+[[0. 0. 1.]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\scissors-hires2.png
+[[0. 0. 1.]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\scissors1.png
+[[0. 0. 1.]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\scissors2.png
+[[0. 0. 1.]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\scissors3.png
+[[0. 0. 1.]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\scissors4.png
+[[0. 0. 1.]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\scissors5.png
+[[0. 0. 1.]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\scissors6.png
+[[0. 0. 1.]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\scissors7.png
+[[0. 0. 1.]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\scissors8.png
+[[0. 0. 1.]]
+It is a Scissor
+C:/Users/shens/Downloads/rps-validation\scissors9.png
+[[0. 0. 1.]]
+It is a Scissor
